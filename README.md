@@ -1,3 +1,8 @@
+# Archieved
+
+This repo has been archieved considering the ease of creating starter boilerplates/templates. Thank you everyone who may have used this.
+
+
 # Express Prisma Starter Template
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensrc.org/licenses/Apache-2.0)
